@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width:1280px){
+	header .run{width:30%;}
+	header .run strong{font-size:15px;height:auto;letter-spacing:3px;}
+	header .run h3{width:90%;font-size:35px;height:90px;}
+	header .run p{font-size:20px;height:auto;}
+
+	#banner .pic{width:96%;margin:0 2%;}
+	#banner .pic img{width:100%;}
+	#phone{width:93%;}
+	#phone ul{width:31%;}
+	#phone ul li .icon{width:20%;}
+	#phone ul li .icon i{width:33%;}
+	#phone ul li .text{width:79%;}
+	#phone ul li .text p{padding-right:10%;}
+	#phone .mid{width:29%;padding:9% 3%;}
+	#work{width:97%;}
+	#work .pic{width:27%;}
+	footer .f-top{height:470px;}
+	footer .f-top .inner{width:96%;padding:0 2%;}
+	footer .f-top .left{width:18%;padding-right:5%;}
+	footer .f-top .left ul li{padding-right:1%;}
+	footer .f-top .posts{width:18%;padding-right:5%;}
+	footer .f-top dl{width:18%;padding-right:5%;}
+	footer .f-top .right{width:19%;}
+	}
+	
+	
+@media screen and (max-width:960px){
+	header nav{display:none;}
+	#demos{height:985px;}
+	#demos li{width:100%;float:none;}
+	footer .f-top{height:840px;}
+	}
+	
+@media screen and (max-width:768px){
+	header .run strong{font-size:10px;letter-spacing:3px;line-height:50px;}
+	header .run h3{font-size:22px;height:80px;}
+	header .run p{font-size:18px;height:auto;line-height:50px}
+	#phone{height:2400px;}
+	#phone ul{float:none;width:96%;padding-top:50px;}
+	#phone ul li .text p{padding-right:10px;}
+	#phone .mid{float:none;}
+	#phone .mid{width:96%;height:1650px;}
+	#phone .mid img{width:95%;}
+	#work p{font-size:15px;height:50px;line-height:50px;}
+	#work nav li a{padding:0 1%;letter-spacing:0;}
+	#work .pic{width:40%;}
+	#envato p{font-size:18px;height:80px;}
+	#touch p{font-size:18px;height:132px;}
+	footer .f-top{height:1100px;}
+	footer .f-top .left{width:85%;float:none;height:250px;margin:0 7%;}
+	footer .f-top .posts{width:85%;padding-right:0;float:none;height:250px;margin:0 7%;}
+	footer .f-top dl{float:none;width:85%;padding-right:0;height:250px;margin:0 7%;}
+	footer .f-top .right{float:none;width:85%;height:250px;margin:0 7%;}
+	}
+	
+@media screen and (max-width:480px){
+	#banner h3{line-height:50px;font-size:18px;}
+	#banner h4{line-height:45px;font-size:12px;}
+	header .run{width:40%;}
+	header .run strong{font-size:8px;height:auto;letter-spacing:3px;}
+	header .run h3{font-size:14px;height:80px;}
+	header .run p{font-size:10px;height:auto;line-height:30px;}
+	#phone{height:2000px;}
+	#phone .mid{height:1200px;}
+	#work .pic{width:90%;}
+	#work h4{font-size:14px;}
+	#work p{font-size:10px;height:30px;line-height:30px;}
+	#envato{height:200px;}
+	#envato i{font-size:75px;}
+	#envato p{font-size:12px;height:40px;line-height:20px;}
+	#envato a{font-size:12px;height:20px;line-height:20px;}
+	#envato h6{font-size:10px;height:20px;line-height:20px;}
+	#touch{height:180px;}
+	#touch h5{font-size:14px;height:18px;line-height:18px;padding-top:40px;}
+	#touch p{font-size:12px;height:50px;line-height:18px;padding-bottom:10px;}
+	#touch a{height:25px;font-size:12px;line-height:25px;}
+	footer .f-bot{font-size:10px;height:30px;line-height:30px;}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
